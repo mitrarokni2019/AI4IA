@@ -8,10 +8,10 @@ These are all my assignment for the course "Artificial Intelligence For Industri
 Assignment 1 -   Gradient Descent Optimization
                  &  Auto-Differentiation
 ***********************************************
-Task B-  Gradient Descent: Numpy/Manual Calculations.
-Task C-  Gradients using difference finite difference ratios.
-Task D-  Auto-differentiation with TensorFlow2.
-Task E-  Auto-differentiation with PyTorch.
+- Task B-  Gradient Descent: Numpy/Manual Calculations.
+- Task C-  Gradients using difference finite difference ratios.
+- Task D-  Auto-differentiation with TensorFlow2.
+- Task E-  Auto-differentiation with PyTorch.
 
 
 
